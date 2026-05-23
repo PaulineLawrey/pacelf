@@ -1,7 +1,7 @@
-title: "Research Project Website Starter"
+title: "PacELF Digital Library"
 description: "A JCU-themed static website for research project communications."
 url: "https://paulinelawrey.github.io"
-baseurl: "/pacelf"
+baseurl: ""
 
 remote_theme: jcu-eresearch/jcu-research-website-theme
 
@@ -22,21 +22,21 @@ defaults:
 # Optional theme overrides.
 # Leave these commented to use the theme defaults. Uncomment only the settings you want to change.
 #
-# theme_settings:
+theme_settings:
 #   show_breadcrumbs: true
 #   logo: "/assets/images/jcu-logo-mono.svg"
 #   logo_alt: "James Cook University"
-project_logo: "/assets/images/pacelf_logo.png"
-project_logo_alt: "PacELF logo"
-#   sidebar_logo_tile_background: "transparent"
-#   sidebar_logo_tile_border_color: "transparent"
-#   sidebar_project_logo_tile_background: "transparent"
-#   sidebar_project_logo_tile_border_color: "transparent"
-font_family: "Verdana, Inter, Arial, Helvetica, sans-serif"
-heading_font_family: "Verdana, Inter, Arial, Helvetica, sans-serif"
-primary_color: "#c10015"
-secondary_color: "#273256"
-accent_color: "#E9F0F2"
+  project_logo: "/assets/images/pacelf_logo.png"
+  project_logo_alt: "PacELF logo"
+  sidebar_logo_tile_background: "transparent"
+  sidebar_logo_tile_border_color: "transparent"
+  sidebar_project_logo_tile_background: "transparent"
+  sidebar_project_logo_tile_border_color: "transparent"
+  font_family: "Tahoma, Inter, Arial, Helvetica, sans-serif"
+  heading_font_family: "Tahoma, Inter, Arial, Helvetica, sans-serif"
+  primary_color: "#c10015"
+  secondary_color: "#273256"
+  accent_color: "#273256"
 #   text_color: "#344054"
 #   heading_color: "#344054"
 #   muted_text_color: "#667085"

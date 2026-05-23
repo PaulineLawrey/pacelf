@@ -1,7 +1,12 @@
 - title: Home
   url: /
-- title: Project
+- title: PacELF Project
   url: /project/
-- title: Contact
+- title: Contact Us
   url: /contact/
+- title: Sample colours
+  url: /configured-colours/
+- title: Sample components
+  url: /inline-content-blocks/
+
 
