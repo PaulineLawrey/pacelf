@@ -1,6 +1,6 @@
 ---
 title: PacELF Project
-permalink: /project
+permalink: /project/
 ---
 ## Pacific Programme for the Elimination of Lymphatic Filariasis
 PacELF worked within the framework of the [Global Programme to Eliminate Filariasis](https://www.who.int/health-topics/lymphatic-filariasis#tab=tab_1), the [WHO Regional Office for the Western Pacific](https://www.who.int/westernpacific) and the [Division of Pacific Technical Support](https://www.who.int/westernpacific/about/how-we-work/pacific-support).
