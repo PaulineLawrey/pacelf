@@ -43,7 +43,7 @@ theme_settings:
 #   background_color: "#FFFFFF"
 #   surface_color: "#F8FAFC"
   secondary_background_color: "#00857A"
-  secondary_background_opacity: "0.5"
+  secondary_background_opacity: "0.3"
 #   border_color: "#D0D5DD"
 #   table_banded_rows: true
 #   block_separator_style: "none"
